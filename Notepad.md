@@ -1,3 +1,23 @@
+
+# 阵麦算法
+
+| 算法 | CH1 侧 | CH4 侧 |
+|---|---:|---:|
+| AuxIVA（上次结果的基线） | +6.27 dB | +6.26 dB |
+| ILRMA | +6.38 dB | +7.03 dB |
+| 空间掩膜 + MVDR 波束形成 | +8.81 dB | +10.62 dB |
+| **空间维纳滤波** | **+9.02 dB** | **+10.80 dB** |
+
+
+
+# 
+## Moshi
+[https://github.com/kyutai-labs/moshi](https://github.com/kyutai-labs/moshi)
+
+## Sophon-Realtime 4B／32B
+[https://github.com/adventists-ai](https://github.com/adventists-ai)
+
+
 # Duplex 
 
 # AI 领域的 Plural Intelligence / 复数智能
